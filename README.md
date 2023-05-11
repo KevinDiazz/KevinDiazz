@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi👋
 
-<h1 align="center">Hi 👋, I'm Kevin Diaz</h1>
+<h1 align="center">I'm Kevin Diaz</h1>
 <h3 align="center">Soy desarrollador FullStack</h3>
 <p>Soy un apasionado desarrollador autodidacta, con un enfoque especializado en JavaScript, React, Node.js, MongoDB, CSS, HTML y SQL. Aunque aún no he tenido la oportunidad de trabajar profesionalmente en esta industria, mi constante búsqueda de conocimiento y mi dedicación  me impulsan a aprender y superarme cada día.<br>
   Mi trayectoria como autodidacta me ha permitido adquirir una base sólida en el desarrollo web, y estoy constantemente explorando nuevas tecnologías y enfoques para mejorar mis habilidades. La curiosidad y el deseo de superarme son mis principales motores, y siempre estoy buscando proyectos desafiantes que me permitan poner en práctica lo que he aprendido.<br>
 Si estás interesado en colaborar en proyectos innovadores o simplemente en discutir ideas y tendencias tecnológicas, no dudes en contactarme. Estoy ansioso por seguir desarrollando mis habilidades y construir un futuro exitoso en el mundo del desarrollo de software.<br>
+</p>
+<h4 align="center">¡Sigamos aprendiendo y construyendo juntos!</h4>
 
-¡Sigamos aprendiendo y construyendo juntos!</p>
-- 💬 Ask me about **Javascript , CSS, React , Node....**
-- 📫 How to reach me **kevinds1895@gmail.com** <br>
+- 📫 How to reach me **kevinds1895@gmail.com** 
 
 <h2 align="left">Stack:</h2>
 
