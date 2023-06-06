@@ -35,7 +35,7 @@ Si estás interesado en colaborar en proyectos innovadores o simplemente en disc
  <a href="https://www.linkedin.com/in/kevin-diaz-036529276/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/kevin-diaz-036529276/" height="30" width="90" /></a>
 <h4 align="left">LeetCode perfil:</h4>
 <p align="left">
-<a href="https://leetcode.com/kevinds1895/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/kevinds1895/" height="30" width="40" /></a>
+<a href="https://leetcode.com/kevinds1895/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/kevinds1895/" height="60" width="50" /></a>
 </p>
 
 
