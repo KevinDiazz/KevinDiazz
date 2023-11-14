@@ -1,10 +1,12 @@
 ### Hi👋
 
-<h1 align="center">I'm Kevin Diaz</h1>
+<h1 align="center">Kevin Diaz</h1>
 <h3 align="center">Soy desarrollador Front-End</h3>
-<p>Soy un apasionado desarrollador autodidacta, con un enfoque especializado en JavaScript, React, CSS y HTML. Aunque aún no he tenido la oportunidad de trabajar profesionalmente en esta industria, mi constante búsqueda de conocimiento y mi dedicación  me impulsan a aprender y superarme cada día.<br>
-  Mi trayectoria como autodidacta me ha permitido adquirir una base sólida en el desarrollo web, y estoy constantemente explorando nuevas tecnologías y enfoques para mejorar mis habilidades. La curiosidad y el deseo de superarme son mis principales motores, y siempre estoy buscando proyectos desafiantes que me permitan poner en práctica lo que he aprendido.<br>
-Si estás interesado en colaborar en proyectos innovadores o simplemente en discutir ideas y tendencias tecnológicas, no dudes en contactarme. Estoy ansioso por seguir desarrollando mis habilidades y construir un futuro exitoso en el mundo del desarrollo de software.<br>
+<p>¡Hola, soy Kevin, un desarrollador web con una sólida formación autodidacta y experiencia adquirida a través de bootcamps especializados, centrándome en tecnologías clave como JavaScript, React, HTML y CSS.
+
+Mi dedicación al desarrollo es constante, donde busco formarme cada día con las mejores herramientas, prácticas y habilidades. Creo firmemente en la importancia de construir no solo código robusto, sino también relaciones sólidas y colaborativas. Estoy convencido de que el intercambio de conocimientos y la construcción de comunidades enriquecen nuestro viaje en el desarrollo web, y estoy entusiasmado por contribuir y aprender en este apasionante proceso de crecimiento conjunto.
+
+Actualmente, busco oportunidades donde pueda aplicar y expandir mis habilidades, contribuir a proyectos significativos y seguir creciendo como desarrollador web. ¡Contáctame y sigamos creciendo juntos! 📬😄<br>
 </p>
 <h4 align="center">¡Sigamos aprendiendo y construyendo juntos!</h4>
 
