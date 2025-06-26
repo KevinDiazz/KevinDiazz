@@ -4,9 +4,9 @@
 
 Mi dedicación al desarrollo es constante, donde busco formarme cada día con las mejores herramientas, prácticas y habilidades. Creo firmemente en la importancia de construir no solo código robusto, sino también relaciones sólidas y colaborativas. Estoy convencido de que el intercambio de conocimientos y la construcción de comunidades enriquecen nuestro viaje en el desarrollo web, y estoy entusiasmado por contribuir y aprender en este apasionante proceso de crecimiento conjunto.
 
-Actualmente, busco oportunidades donde pueda aplicar y expandir mis habilidades, contribuir a proyectos significativos y seguir creciendo como desarrollador web. ¡Contáctame y sigamos creciendo juntos! 📬😄<br>
+Actualmente, busco oportunidades donde pueda aplicar y expandir mis habilidades, contribuir a proyectos significativos y seguir creciendo como desarrollador web.<br>
 </p>
-<h3>¡Sigamos aprendiendo y construyendo juntos!</h3>
+<h3>¡Contáctame y sigamos creciendo juntos! 📬😄</h3>
 
 <div>
   <div>
