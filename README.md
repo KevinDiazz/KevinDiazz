@@ -1,6 +1,6 @@
 ![descarga (1)](https://github.com/user-attachments/assets/4b8e0d14-3757-479d-bcae-d873dbef7390)
 
-<p>¡Hola, soy Kevin, un <strong>desarrollador web</strong> con una sólida formación autodidacta y experiencia adquirida a través de bootcamps especializados, centrándome en tecnologías clave como <strong>JavaScript, React, HTML y CSS</strong>.
+<p>¡Hola, soy Kevin, un <strong>desarrollador web</strong> con una sólida formación autodidacta adquirida a través de bootcamps especializados y actualmente cursando el Ciclo Superior en Desarrollo de Aplicaciones Web (DAW), centrándome en tecnologías clave como <strong>JavaScript, React, HTML y CSS</strong>.
 
 Mi dedicación al desarrollo es constante, donde busco formarme cada día con las mejores herramientas, prácticas y habilidades. Creo firmemente en la importancia de construir no solo código robusto, sino también relaciones sólidas y colaborativas. Estoy convencido de que el intercambio de conocimientos y la construcción de comunidades enriquecen nuestro viaje en el desarrollo web, y estoy entusiasmado por contribuir y aprender en este apasionante proceso de crecimiento conjunto.
 
