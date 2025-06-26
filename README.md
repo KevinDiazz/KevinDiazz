@@ -17,7 +17,7 @@ Actualmente, busco oportunidades donde pueda aplicar y expandir mis habilidades,
 <h3>CONTACTO:</h3>
 <a href="mailto:kevinds1895@gmail.com" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="kevinds1895@gmail.com"/>
-</a> <a href="https://www.linkedin.com/in/kevin-diaz-036529276/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/
+</a> <a href="https://www.linkedin.com/in/kevindiazsuarez" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/
 kevindiazsuarez"/></a>
 
 
