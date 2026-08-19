@@ -1,25 +1,69 @@
 ![descarga (1)](https://github.com/user-attachments/assets/4b8e0d14-3757-479d-bcae-d873dbef7390)
 
-<p>¡Hola, soy Kevin, un <strong>desarrollador web</strong> con una sólida formación autodidacta adquirida a través de bootcamps especializados y actualmente cursando el Ciclo Superior en Desarrollo de Aplicaciones Web (DAW), centrándome en tecnologías clave como <strong>JavaScript, React, HTML y CSS</strong>.
-
-Mi dedicación al desarrollo es constante, donde busco formarme cada día con las mejores herramientas, prácticas y habilidades. Creo firmemente en la importancia de construir no solo código robusto, sino también relaciones sólidas y colaborativas. Estoy convencido de que el intercambio de conocimientos y la construcción de comunidades enriquecen nuestro viaje en el desarrollo web, y estoy entusiasmado por contribuir y aprender en este apasionante proceso de crecimiento conjunto.
-
-Actualmente, busco oportunidades donde pueda aplicar y expandir mis habilidades, contribuir a proyectos significativos y seguir creciendo como desarrollador web.<br>
+<p>
+  Hola, soy Kevin, <strong>Desarrollador Full Stack</strong>.
 </p>
-<h3>¡Contáctame y sigamos creciendo juntos! 📬😄</h3>
+
+<p>
+  Me especializo en el desarrollo de aplicaciones web full-stack, trabajando tanto
+  en frontend como en backend. Tengo experiencia práctica construyendo proyectos
+  completos, desde el diseño de la interfaz y las APIs hasta las bases de datos,
+  testing, CI/CD y despliegue en producción.
+</p>
+
+<p>
+  Actualmente trabajo principalmente con <strong>TypeScript, JavaScript, Java,
+  Angular, PostgreSQL y Spring Boot</strong>. También utilizo
+  herramientas de <strong>Inteligencia Artificial como Claude Code </strong>
+  como apoyo durante el desarrollo, revisando, probando y validando el código
+  generado antes de incorporarlo al proyecto.
+</p>
+
+<p>
+  Me interesa especialmente el desarrollo de productos digitales, la resolución
+  de problemas y la mejora continua. Busco una oportunidad profesional donde
+  pueda aportar mis conocimientos, seguir aprendiendo y participar en el
+  desarrollo de productos reales.
+</p>
+
+<h3 align="left">STACK</h3>
 
 <div>
-  <div>
-<h3 align="left">STACK:</h3>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,html,css,tailwind" />
 </div>
-<h3>Portafolio:</h3>
-https://portafoliokevindiaz.vercel.app/
-<h3>CONTACTO:</h3>
-<a href="mailto:kevinds1895@gmail.com" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="kevinds1895@gmail.com"/>
-</a> <a href="https://www.linkedin.com/in/kevindiazsuarez" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/
-kevindiazsuarez"/></a>
 
+<h3 align="left">BACKEND & DATABASES</h3>
 
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,postgresql,mongodb,prisma" />
+</div>
+
+<h3 align="left">TOOLS & DEPLOYMENT</h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare" />
+</div>
+
+<h3 align="left">TESTING & IA</h3>
+
+<p>
+  Jest · Supertest · Claude Code · Cursor
+</p>
+
+<h3>PORTFOLIO</h3>
+
+<p>
+  <a href="https://portafoliokevindiaz.vercel.app" target="_blank">
+    https://portafoliokevindiaz.vercel.app
+  </a>
+</p>
+
+<h3>CONTACTO</h3>
+
+<a href="mailto:kevindiaz60@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/kevindiazsuarez" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
